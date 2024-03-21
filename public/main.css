@@ -35,3 +35,9 @@ body {
 #particles-js {
   height: 100vh;
 }
+
+.btn-primary {
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
